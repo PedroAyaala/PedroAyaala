@@ -1,7 +1,7 @@
 [Pedro]
 
 ## About Me
-Currently studying : Master in business analytics and big data at IE university, 2023
+Currently studying : Master in business analytics and big data at IE university, 2023 
 
 ## Skills and Tools
 NiFi
@@ -16,7 +16,8 @@ NiFi
 ## GitHub Stats
 Showcase your GitHub stats for a quick overview of your activities and contributions.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[PedroAyaala]&show_icons=true)
+
 
 ## Projects
 Highlight some of your best projects. Provide a brief description and link to the repository.
